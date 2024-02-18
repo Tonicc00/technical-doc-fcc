@@ -1,4 +1,4 @@
 Challenge for freeCodeCamp Responsive Web Design certification.
-Goal was to make a technical documentation page so I chose to do it for Python.
-Site is responsive and works well on all screen sizes.
+
+Objective: Build an app that is functionally similar to https://technical-documentation-page.freecodecamp.rocks. 
 Live: https://technical-doc-page-fcc.netlify.app/
